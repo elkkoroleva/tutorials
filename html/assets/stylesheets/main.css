@@ -148,6 +148,13 @@ h5 {
 	padding: 40px 0 22px 0;
 	float: left;
 }
+.logo {
+	border-top: 4px solid #648880;
+	float: left;
+	font-size: 48px; 
+	line-height: 44px; 
+	padding: 40px 0 22px 0;
+	
 /*
  ======================================
  Основной заголовок
@@ -200,4 +207,18 @@ font-weight: 400;
 }
 cite, em {
 font-style: italic;
+}
+/*
+======================
+Ссылки
+======================
+*\
+a: hover {
+  color: #a9b2b9;
+}
+a {
+  color: #648880;
+}
+.tagline {
+	margin: 66px 0 22px 0;
 }
