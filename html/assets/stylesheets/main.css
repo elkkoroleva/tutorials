@@ -73,6 +73,9 @@ table {
 h1, h3, h4, h5, p {
 	margin-bottom: 22px;
 }
+h1, h2, h3, h4 {
+	color: #648880; 
+}
 /*
   ========================================
   Кнопки
@@ -163,4 +166,13 @@ h1, h3, h4, h5, p {
 .container {
 	padding-left: 30px;
 	padding-right: 30px;
+}
+/*
+==========================
+Пользовательские стили 
+==========================
+*\
+body {
+	color: #888;
+	font: 300 16px/22px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
 }
